@@ -19,9 +19,9 @@
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/ChristianoPicciningit/spark-series?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/ChristianoPicciningit/spark-series?color=56BEB8" /> -->
+  <img alt="Github forks" src="https://img.shields.io/github/forks/ChristianoPiccinin/spark-series?color=56BEB8" /> 
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/ChristianoPicciningit/spark-series?color=56BEB8" /> -->
+  <img alt="Github stars" src="https://img.shields.io/github/stars/ChristianoPiccinin/spark-series?color=56BEB8" />
 </p>
 
 <!-- Status -->
@@ -46,7 +46,7 @@
 
 ## :dart: About ##
 
-Project used to study Spark
+Project used to study Spark and PySpark
 
 ## :sparkles: Features ##
 
